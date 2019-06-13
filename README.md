@@ -13,7 +13,7 @@ Having your CV stand out amongst thousands of others is no easy task. However, w
 - [Book a free Linkedin review](https://productschool-linkedin-review.youcanbook.me/?SRC=github&CMG=interviewchecklist) with Product Management experts to identify your strengths and areas in need of improvement.
 # 3. Find the right job (Send that CV!)
 You’ve graduated from Product noob to Product Pro, and can now hang with the top dogs in the industry! [Time to find your ultimate Product Job](https://www.productschool.com/job-portal/).
-- Join our private [Slack Jobs Channel](https://product-school.slack.com/messages/C0EP5DG9H/) to find fresh opportunities in your career search. Want to work remotely? Check openings here.
-- Find jobs on Twitter with #EpicJobs.
-- If you are a woman looking for a role in tech then Tech Ladies is the place.
-- Lastly, Join our Telegram private channel if you want to receive daily offers for job opportunities around the globe.
+- Join our private [Slack Jobs Channel](https://product-school.slack.com/messages/C0EP5DG9H/) to find fresh opportunities in your career search. 
+- Find jobs on Twitter with [#EpicJobs](https://epicjobs.co/).
+- If you are a woman looking for a role in tech then [Tech Ladies is the place](https://www.hiretechladies.com/).
+- Lastly, Join our [Telegram private channel](https://www.productschool.com/telegram-community/) if you want to receive daily offers for job opportunities around the globe.
