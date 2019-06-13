@@ -17,3 +17,23 @@ You’ve graduated from Product noob to Product Pro, and can now hang with the t
 - Find jobs on Twitter with [#EpicJobs](https://epicjobs.co/).
 - If you are a woman looking for a role in tech then [Tech Ladies is the place](https://www.hiretechladies.com/).
 - Lastly, Join our [Telegram private channel](https://www.productschool.com/telegram-community/) if you want to receive daily offers for job opportunities around the globe.
+# 4. It’s almost showtime!
+Time to prep for your interview!
+- The best way to win over your audience is to [know what they want to hear](https://www.productschool.com/blog/product-management-2/interview/the-ultimate-list-product-manager-interview-questions/)
+- Learn to finesse them with your [soft skills](https://www.productschool.com/blog/product-management-2/skills/how-soft-skills-can-save-business/).
+- Demonstrate your hard skill savviness.
+- Set yourself up for as much success as possible by mastering the [SAR method](https://www.productschool.com/blog/product-management-2/the-sar-method-for-product-management-interview-questions/). Cut the fat out of your interview by being bold and brief.
+# 5. Practice makes Product perfect
+There are people out there looking to sharpen their skills with you. Engage in real-time mock interviews with the following platforms:
+If you want to practice with real PMs working at top tech companies then [Candor](https://teamcandor.com/interviewing/) is the platform you need.
+You can also partake in mock interviews with a specialist or other aspiring PMs on [Pramp](https://www.pramp.com/#/) or [Polariis](https://apps.apple.com/sg/app/polariis-find-expert-advisors/id1129666453).
+Go a step further and head to our [#interview channel on Slack](https://product-school.slack.com/messages/C11PMC1FH) and connect with other PMs to request advice.
+# 6. During & After: Key points for your interview
+Beyond knowing how to respond to questions during the interview, you’ll also should:
+- [Ask the right questions!](https://www.productschool.com/blog/product-management-2/20-key-questions-to-ask-in-a-product-management-interview/)
+- Treat the process as a conversation, not as an examination.
+Knowing what to do after the interview is a tricky situation. Being adept at the following tasks will help in this situation:
+Send the post-interview email regardless of the results.
+- [Learn how to negotiate your PM salary.](https://www.productschool.com/blog/product-management-2/how-to-negotiate-your-next-product-manager-salary/)
+- Use [LinkedIn Salary calculator](https://www.linkedin.com/salary/?ref=producthunt) to get the most accurate assessment of what you should be earning.
+- Are you the Founder of your own business? Knowing how to pay yourself can be a perplexing issue. However, you can now know [how much to pay yourself](https://docs.google.com/spreadsheets/d/15xRVMp_Ng-Sjfh9pDZb1X1d66Elv9PTqPzvWEH7XOXI/edit?ref=producthunt#gid=0) with this calculator.
